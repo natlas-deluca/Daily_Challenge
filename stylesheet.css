@@ -1,0 +1,36 @@
+
+#trophy {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 7px 5px 15px rgba(0, 0, 0, 0.6);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#headLine {
+    background-color: rgb(255, 128, 128);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+#headLine p {
+    color: rgb(0, 0, 0, 0.6);
+}
+#imageTrophy {
+    margin: 0px auto -100px auto;
+}
+
+#headLine h1 {
+    padding: 100px auto 0 auto;
+    display: inline-block;
+    margin: 125px auto 0 auto;
+}
+
+#headLine span { 
+    color: rgb(177, 0, 0)
+}
+
+main {
+    margin: 200px auto 72px auto;
+}
